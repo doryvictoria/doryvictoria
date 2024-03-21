@@ -1,0 +1,4 @@
+length = int(input('enter number of rowns:'))
+# upper section
+for i in range(length):
+      for j in range(1):
